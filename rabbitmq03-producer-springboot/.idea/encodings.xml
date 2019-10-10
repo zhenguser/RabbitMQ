@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../rabbitmq03-consumer-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rabbitmq03-consumer-springboot/src/main/java/com/daoge/msg/AppMsgConsumer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../rabbitmq03-consumer-springboot/src/main/java/com/daoge/msg/email/EmailConsumer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../rabbitmq03-consumer-springboot/src/main/java/com/daoge/msg/sms/SmsConsumer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/daoge/AppMemberProducer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/daoge/AppMemberProducer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/daoge/controller/MemberProducerController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/daoge/msg/AppMemberProducer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/daoge/msg/config" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/daoge/msg/config/FanoutConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/daoge/msg/producer" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
